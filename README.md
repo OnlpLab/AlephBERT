@@ -27,16 +27,23 @@ On four different benchmarks:
 ## Citation
 
 @misc{alephBert2021,
+
       title={AlephBERT: a Pre-trained Language Model to Start Off your Hebrew NLP Application}, 
+      
       author={Amit Seker, Elron Bandel, Dan Bareket, Idan Brusilovsky, Shaked Refael Greenfeld, Reut Tsarfaty},
+      
       year={2021}
+      
 }
 
 ## Contributors:
 
 The ONLP Lab at Bar Ilan University
+
 PI: Prof. Reut Tsarfaty
+
 Contributor: Amit Seker, Elron Bandel, Dan Bareket, Idan Brusilovsky, Shaked Refael Greenfeld
+
 Advisors: Dr. Roee Aharoni, Prof. Yoav Goldberg
 
 
