@@ -6,7 +6,7 @@ A large Pre-trained language model for Modern Hebrew
 
 Based on BERT-base training, 12 hidden layers, with 52K vocab size.
 
-Trained on 95K sentences from OSCAR+Wikipedia+Tweeter data, 10 epochs.
+Trained on 95M sentences from OSCAR+Wikipedia+Tweeter data, 10 epochs.
 
 ## Evaluation
 
